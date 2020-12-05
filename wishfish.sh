@@ -16,7 +16,7 @@ printf "\e░░╚██╔╝░╚██╔╝░██║██████�
 printf "\e░░░╚═╝░░░╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═════╝░╚═╝░░╚═╝\n"
 
 printf " \e[1;77m v1.0 coded by github.com/thelinuxchoice/saycheese\e[0m \n"
-printf " \e[1;77m v1.1 modified by github.com/alkr-hackheckz/wishfish\e[0m \n"
+printf " \e[1;77m v1.1 modified by github.com/Rishuv786/wishfish\e[0m \n"
 
 printf "\n"
 
